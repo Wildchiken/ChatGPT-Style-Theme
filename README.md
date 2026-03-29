@@ -6,7 +6,7 @@
 提供干净、优雅且高度还原 OpenAI 官方对话界面的视觉体验。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-[查看英文版](./README_EN.md)
+[View English Version](./README_EN.md)
 
 </div>
 
